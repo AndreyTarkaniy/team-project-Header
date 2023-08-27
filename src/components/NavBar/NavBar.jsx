@@ -1,4 +1,3 @@
-// import { Li } from 'react-router-dom';
 import { Li, MenuLink, NavList } from './NavBar.styled';
 
 export const NavBar = ({ nav }) => {
